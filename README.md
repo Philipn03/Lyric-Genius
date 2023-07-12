@@ -7,13 +7,16 @@ What it does:
 LyricGenius is a website with the purpose of assisting users in their journey of memorizing songs. It asks for two user inputs: an artist's name and their song's name. If they are valid inputs, then all the lyrics to their song will appear on a new screen. 
 But there's a twist! Every line of the song has one random word missing, and it is the user's job to fill in as many of the blanks as they can which will help them memorize the song's lyrics.
 
-![image](https://github.com/Philipn03/Lyric-Genius/assets/97057738/9f8ee4a8-3967-44ff-9b38-e5a45c78aab1)
+<img width="1407" alt="Screenshot 2023-07-12 at 2 12 20 PM" src="https://github.com/Philipn03/Lyric-Genius/assets/97057738/924a398b-d215-4cf7-b5e3-60f514b8f794">
 
 
-![image](https://github.com/Philipn03/Lyric-Genius/assets/97057738/9eaca9a2-f75d-416f-90a4-8d6b80c717b3)
+
+<img width="1407" alt="Screenshot 2023-07-12 at 2 11 49 PM" src="https://github.com/Philipn03/Lyric-Genius/assets/97057738/377f6ecb-5cc9-4235-b5df-bd334199d8ce">
 
 
-![image](https://github.com/Philipn03/Lyric-Genius/assets/97057738/2f0d36d7-8828-4742-95ec-64be50dda2e8)
+
+<img width="1407" alt="Screenshot 2023-07-12 at 2 11 56 PM" src="https://github.com/Philipn03/Lyric-Genius/assets/97057738/2fbe0a67-50e7-436e-a742-425912f3780a">
+
 
 
 
